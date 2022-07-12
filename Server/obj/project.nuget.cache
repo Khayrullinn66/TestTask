@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6zor3vNeys/yAwhNkbLW1nW39JR9vdLhQwTJQxL+fkmkuwnfPtH0b44mVn30oCgWIFppPQqJkmp1g8fxvoarcQ==",
+  "success": true,
+  "projectFilePath": "/home/ruslan/Project/Test/Server/Server.csproj",
+  "expectedPackageFiles": [
+    "/home/ruslan/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/ruslan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/ruslan/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
